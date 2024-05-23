@@ -1,7 +1,7 @@
 ## Porfólio Pessoal
 Fiz este porfolio com o intuito de estudar e apresentar as minhas habilidades, além de poder compartilhar um pouco sobre mim e minha trajetória.
 
-## Técnicas e teclogias utilziadas
+## Técnicas e teclogias utilizadas
 
 * HTML
 * CSS
